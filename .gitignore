@@ -1,0 +1,17 @@
+.DS_Store
+bot.js
+temp.txt
+seo-sheet-function.vb
+
+node_modules/
+playwright-report/
+input/
+test-results/
+results/
+blob-report/
+playwright/.cache/
+
+tests/blogwalking.spec.ts
+tests/ping.spec.ts
+tests/random-list.spec.ts
+tests/redirect.spec.ts
